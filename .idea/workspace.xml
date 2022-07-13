@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dd0f33b-dc15-4bae-b4d7-56ad24feeccd" name="Changes" comment="Parasoft bank" />
+    <list default="true" id="7dd0f33b-dc15-4bae-b4d7-56ad24feeccd" name="Changes" comment="Parasoft bank">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
       <recent name="C:\Users\Devraj\IdeaProjects\parabankCom\ChromeDriver" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FindTransactions.test9">
+  <component name="RunManager" selected="JUnit.upDateInfo.test10">
     <configuration name="EnterBillPayeeInformation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parabankCom" />
       <extension name="coverage">
@@ -105,7 +107,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="billPay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="upDateInfo.test10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parabankCom" />
       <extension name="coverage">
         <pattern>
@@ -114,19 +116,20 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="softbank" />
-      <option name="MAIN_CLASS_NAME" value="softbank.billPay" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="softbank.upDateInfo" />
+      <option name="METHOD_NAME" value="test10" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.upDateInfo.test10" />
         <item itemvalue="JUnit.FindTransactions.test9" />
         <item itemvalue="JUnit.FindTransactions" />
         <item itemvalue="JUnit.EnterBillPayeeInformation" />
         <item itemvalue="JUnit.EnterBillPayeeInformation.test8" />
-        <item itemvalue="JUnit.billPay" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +149,28 @@
       <option name="project" value="LOCAL" />
       <updated>1657749933364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Parasoft bank">
+      <created>1657750273565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657750273565</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Parasoft bank">
+      <created>1657750375235</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657750375235</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Parasoft bank">
+      <created>1657750494783</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657750494783</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
