@@ -47,7 +47,7 @@ public class requestLoan {
 
         WebElement ClickSendLoan = driver.findElement(By.className("button"));
         ClickSendLoan.click();
-        System.out.println("Click on loan button success button");
+        System.out.println("Click on loan button success.");
 
 
     }
