@@ -30,43 +30,43 @@ public class EnterBillPayeeInformation {
 
         WebElement EnterPayeeName = driver.findElement(By.name("payee.name"));
         EnterPayeeName.sendKeys("James Bond");
-        System.out.println("Payee Name enterned.");
+        System.out.println("Payee Name entered.");
 
         WebElement EnterPayeeaddress = driver.findElement(By.name("payee.address.street"));
         EnterPayeeaddress.sendKeys("7918 Ave. St.");
-        System.out.println("Payee address enterned.");
+        System.out.println("Payee address entered.");
 
         WebElement EnterPayeeCity = driver.findElement(By.name("payee.address.city"));
         EnterPayeeCity.sendKeys("Elmhurst");
-        System.out.println("Payee city enterned.");
+        System.out.println("Payee city entered.");
 
         WebElement EnterPayeeState = driver.findElement(By.name("payee.address.state"));
         EnterPayeeState.sendKeys("NY");
-        System.out.println("Payee State enterned.");
+        System.out.println("Payee State entered.");
 
         WebElement EnterPayeezipCode = driver.findElement(By.name("payee.address.zipCode"));
         EnterPayeezipCode.sendKeys("11373");
-        System.out.println("Payee ZipCode enterned.");
+        System.out.println("Payee ZipCode entered.");
 
         WebElement EnterPayeePhone = driver.findElement(By.name("payee.phoneNumber"));
         EnterPayeePhone.sendKeys("191-911-0910");
-        System.out.println("Payee phone no. enterned.");
+        System.out.println("Payee phone no. entered.");
 
         WebElement EnterPayeeAccNo = driver.findElement(By.name("payee.accountNumber"));
         EnterPayeeAccNo.sendKeys("10720");
-        System.out.println("Payee account no. enterned.");
+        System.out.println("Payee account no. entered.");
 
         WebElement EnterPayAccVerify = driver.findElement(By.name("verifyAccount"));
         EnterPayAccVerify.sendKeys("10720");
-        System.out.println("Payee account verified no. enterned.");
+        System.out.println("Payee account verified no. entered.");
 
         WebElement EnterAmount = driver.findElement(By.name("amount"));
         EnterAmount.sendKeys("10000");
-        System.out.println("Payee enterned amount.");
+        System.out.println("Payee entered amount.");
 
         WebElement AmountAccId = driver.findElement(By.name("fromAccountId"));
         AmountAccId.sendKeys("19116");
-        System.out.println("Payee enterned account no..");
+        System.out.println("Payee entered account no..");
 
         WebElement sendPaymentClick = driver.findElement(By.className("button"));
         sendPaymentClick.click();

@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7dd0f33b-dc15-4bae-b4d7-56ad24feeccd" name="Changes" comment="Parasoft bank">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/softbank/EnterBillPayeeInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/softbank/EnterBillPayeeInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/softbank/FindTransactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/softbank/FindTransactions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/softbank/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/softbank/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/softbank/TransferFund.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/softbank/TransferFund.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/softbank/billPay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/softbank/billPay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/softbank/upDateInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/softbank/upDateInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,53 +50,7 @@
       <recent name="C:\Users\Devraj\IdeaProjects\parabankCom\ChromeDriver" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.upDateInfo.test10">
-    <configuration name="EnterBillPayeeInformation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parabankCom" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="softbank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="softbank" />
-      <option name="MAIN_CLASS_NAME" value="softbank.EnterBillPayeeInformation" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EnterBillPayeeInformation.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parabankCom" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="softbank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="softbank" />
-      <option name="MAIN_CLASS_NAME" value="softbank.EnterBillPayeeInformation" />
-      <option name="METHOD_NAME" value="test8" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindTransactions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parabankCom" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="softbank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="softbank" />
-      <option name="MAIN_CLASS_NAME" value="softbank.FindTransactions" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.requestLoan.test11">
     <configuration name="FindTransactions.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parabankCom" />
       <extension name="coverage">
@@ -103,6 +63,52 @@
       <option name="MAIN_CLASS_NAME" value="softbank.FindTransactions" />
       <option name="METHOD_NAME" value="test9" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="requestLoan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parabankCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="softbank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="softbank" />
+      <option name="MAIN_CLASS_NAME" value="softbank.requestLoan" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="requestLoan.test11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parabankCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="softbank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="softbank" />
+      <option name="MAIN_CLASS_NAME" value="softbank.requestLoan" />
+      <option name="METHOD_NAME" value="test11" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="upDateInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parabankCom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="softbank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="softbank" />
+      <option name="MAIN_CLASS_NAME" value="softbank.upDateInfo" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.requestLoan.test11" />
+        <item itemvalue="JUnit.requestLoan" />
+        <item itemvalue="JUnit.upDateInfo" />
         <item itemvalue="JUnit.upDateInfo.test10" />
         <item itemvalue="JUnit.FindTransactions.test9" />
-        <item itemvalue="JUnit.FindTransactions" />
-        <item itemvalue="JUnit.EnterBillPayeeInformation" />
-        <item itemvalue="JUnit.EnterBillPayeeInformation.test8" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657750494783</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Parasoft bank">
+      <created>1657751322265</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657751322265</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Parasoft bank">
+      <created>1657751373530</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657751373530</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

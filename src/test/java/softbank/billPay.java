@@ -18,11 +18,11 @@ public class billPay {
 
         WebElement userNameField = driver.findElement(By.name("username"));
         userNameField.sendKeys("BabuNepal");
-        System.out.println("Username enterned");
+        System.out.println("Username entered");
 
         WebElement passwordNameField = driver.findElement(By.name("password"));
         passwordNameField.sendKeys("subrat123");
-        System.out.println("password enterned");
+        System.out.println("password entered");
 
         WebElement clickLogIn = driver.findElement(By.xpath("//*[@id=\"loginPanel\"]/form/div[3]/input"));
         clickLogIn.click();
